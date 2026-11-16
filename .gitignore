@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+outputs/
+submission/
+LLM_training_submission.zip
+report/
+训练说明_*.pdf
+code/make_report.py
+model/pretrain/
+model/sft/
+model/dpo/

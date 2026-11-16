@@ -1,0 +1,9 @@
+{
+  "pretrain_stories": 18000,
+  "pretrain_chars": 1792066,
+  "pretrain_unique_chars": 460,
+  "sft_train": 278,
+  "sft_val": 31,
+  "dpo_train": 278,
+  "dpo_val": 31
+}

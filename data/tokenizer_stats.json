@@ -1,0 +1,11 @@
+{
+  "vocab_size": 596,
+  "pad_id": 0,
+  "bos_id": 1,
+  "eos_id": 2,
+  "unk_id": 3,
+  "user_id": 4,
+  "assistant_id": 5,
+  "end_id": 6,
+  "sample_chars": "\n +0123456789=“”、。一三上下不与专且丛东两个"
+}
